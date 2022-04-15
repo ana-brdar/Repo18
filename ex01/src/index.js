@@ -1,3 +1,5 @@
+'use strict';
+
 let myArr = [];
 
 function* multiplication(x) {
